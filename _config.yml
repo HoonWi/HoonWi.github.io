@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HoonWi's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "study steadily"
 name                     : "HoonWi's blog"
 description              : "study steadily"
 url                      : "https://HoonWi.github.io"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hoon.Wi"
+  name             : "SungHoon Wi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🐢study steadily"
   location         : "Korea"
